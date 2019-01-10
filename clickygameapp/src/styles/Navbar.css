@@ -1,0 +1,27 @@
+.navbar {
+  background: #6a1b9a;
+  height: 60px;
+}
+
+.navbar-brand {
+  width: 33%;
+  margin: auto;
+}
+
+.correctIncorrect {
+  width: 33%;
+  margin: auto;
+}
+
+.gameScore {
+  width: 33%;
+  margin: auto;
+}
+
+#currentScore {
+  float: left;
+}
+#topScore {
+  float: left;
+  margin-left: 8px;
+}
